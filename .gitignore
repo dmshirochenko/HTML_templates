@@ -98,3 +98,7 @@ sftp-config.json
 # Visual Studio Code - https://code.visualstudio.com/
 .settings/
 .vscode/
+
+# Bootstrap
+node_modules
+dist
